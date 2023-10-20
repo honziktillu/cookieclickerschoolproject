@@ -33,3 +33,7 @@ html {
 #cookie:hover {
     transform: scale(1.1);
 }
+
+.cookie-button {
+    font-size: 46px;
+}
